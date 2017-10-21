@@ -96,20 +96,20 @@ return [
       |   Reset Password Page
       |--------------------------------------
      */
-    'reset_password'              => 'Reset password',
-    'password-reset-successfully' => 'Your password has been reset. Login to your account using you new password',
-    'password-can-not-reset'      => 'We could not reset your password, please try again later.',
+    'reset_password'              => 'Restablecer contraseña',
+    'password-reset-successfully' => 'Su contraseña ha sido restablecida. Inicie sesión usando su nueva contraseña',
+    'password-can-not-reset'      => 'No hemos podido restablecer su contraseña, por favor intente de nuevo más tarde.',
     /*
       |--------------------------------------
       |   Forgot Password Page
       |--------------------------------------
      */
-    'i_know_my_password'            => 'I know my password',
-    'recover_passord'               => 'Recover password',
-    'send_password_reset_link'      => 'Send password reset link',
-    'enter_email_to_reset_password' => 'Enter email/mobile number to reset password',
-    'link'                          => 'Link',
-    'email_or_mobile'               => 'Email or mobile',
+    'i_know_my_password'            => 'Conozco mi contraseña',
+    'recover_passord'               => 'Recuperar contraseña',
+    'send_password_reset_link'      => 'Enviar enlace de restablecimiento de contraseña',
+    'enter_email_to_reset_password' => 'Ingresar correo electrónico/numero móvil para restablecer contraseña',
+    'link'                          => 'Enlace',
+    'email_or_mobile'               => 'Correo electrónico o número móvil',
     /*
       |----------------------------------------------------------------------------------------
       | Emails Pages [English(en)]
