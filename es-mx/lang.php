@@ -1579,19 +1579,19 @@ return [
      'enabled'                      => 'Enabled',
      'disabled'                     => 'Disabled',
      'user-account-is-deleted'      => 'This user account has been deleted.',
-     'restore-user'                 => 'Restore user account',
-     'delete-account-caution-info'  => 'Please note this account may still have  open tickets in the system.',
-     'reply-can-not-be-empty'       => 'Reply can not be blank. Please enter your reply.',
+     'restore-user'                 => 'Reestablezca la cuenta de usuario',
+     'delete-account-caution-info'  => 'Tenga en consideración que esta cuenta puede aún contener ticket abiertos en el sistema.',
+     'reply-can-not-be-empty'       => 'La respuesta no puede estar vacia. Por favor escriba su respuesta.',
 
      //update 18-12-2016
-     'account-created-contact-admin-as-we-were-not-able-to-send-opt' => 'Your account has been created successfully. Please contact admin for account activation as we were not able to send you an OTP code.',
+     'account-created-contact-admin-as-we-were-not-able-to-send-opt' => 'Tu cuenta ha sido creada exitosamente. Por favor contacta al administrador para su activación debido a que no hemos podido enviar un código OTP.',
      //update 19-12-2016
-     'only-agents'         => 'Usuarios Agentes',
-     'only-users'          => 'Usuarios Cliente',
+     'only-agents'         => 'Usuarios agentes',
+     'only-users'          => 'Usuarios cliente',
      'banned-users'        => 'Usuarios bloqueados',
      'inactive-users'      => 'Usuarios inactivos',
      'all-users'           => 'Todos los usuarios',
      'search'              => 'Buscar...',
      //update 21-12-2016
-     'selected-user-is-already-the-owner' => 'Selected user is already the owner of this ticket.',
+     'selected-user-is-already-the-owner' => 'El usuario seleccionado es actualmente el dueño de este ticket.',
 ];
