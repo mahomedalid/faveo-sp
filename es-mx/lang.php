@@ -386,21 +386,21 @@ return [
       |   Access Settings Page
       |--------------------------------------
      */
-    'access'                                           => 'Access',
-    'expiration_policy'                                => 'Password expiration policy',
-    'allow_password_resets'                            => 'Allow password resets',
-    'reset_token_expiration'                           => 'Reset token expiration',
-    'agent_session_timeout'                            => 'Agent session timeout',
-    'bind_agent_session_IP'                            => 'Bind agent session to IP',
-    'registration_required'                            => 'Registration required',
-    'require_registration_and_login_to_create_tickets' => 'Require registration and login to create tickets',
-    'registration_method'                              => 'Registration method',
-    'user_session_timeout'                             => 'User session timeout',
-    'client_quick_access'                              => 'Client quick access',
+    'access'                                           => 'Acceso',
+    'expiration_policy'                                => 'Política de caducidad de la contraseña',
+    'allow_password_resets'                            => 'Permitir restablecimiento de contraseña',
+    'reset_token_expiration'                           => 'Restablecer la caducidad del token',
+    'agent_session_timeout'                            => 'Tiempo de espera de la sesión del agente',
+    'bind_agent_session_IP'                            => 'Enlace la sesión del agente a IP',
+    'registration_required'                            => 'Se requiere registro',
+    'require_registration_and_login_to_create_tickets' => 'Requiere registro e inicio de sesión para crear tickets',
+    'registration_method'                              => 'Método de registro',
+    'user_session_timeout'                             => 'Tiempo de espera de sesión de usuario',
+    'client_quick_access'                              => 'Acceso rápido del cliente',
     'cron'                                             => 'Cron',
-    'cron_settings'                                    => 'Cron settings',
-    'system-settings'                                  => 'System settings',
-    'settings-2'                                       => 'Settings',
+    'cron_settings'                                    => 'Configuración Cron',
+    'system-settings'                                  => 'Ajustes del sistema',
+    'settings-2'                                       => 'Configuración',
     /*
       |--------------------------------------
       |   Auto-Response Settings Page
