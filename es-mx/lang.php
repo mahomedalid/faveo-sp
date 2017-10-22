@@ -406,19 +406,19 @@ return [
       |   Auto-Response Settings Page
       |--------------------------------------
      */
-    'auto_responce'                         => 'Auto response',
-    'auto_responce-settings'                => 'Auto response settings',
-    'new_ticket'                            => 'New ticket',
-    'new_ticket_by_agent'                   => 'New ticket by agent',
-    'new_message'                           => 'New message',
-    'submitter'                             => 'Submitter : ',
-    'send_receipt_confirmation'             => 'Send receipt confirmation',
-    'participants'                          => 'Participants : ',
-    'send_new_activity_notice'              => 'Send new activity notice',
-    'overlimit_notice'                      => 'Overlimit notice',
-    'email_attachments_to_the_user'         => 'Email attachments to the user',
-    'auto_response_updated_successfully'    => 'Auto response updated successfully',
-    'auto_response_can_not_updated'         => 'Auto response can not be updated',
+    'auto_responce'                         => 'Respuesta automática',
+    'auto_responce-settings'                => 'Configuración de respuesta automática',
+    'new_ticket'                            => 'Nuevo ticket',
+    'new_ticket_by_agent'                   => 'Nuevo ticket por agente',
+    'new_message'                           => 'Nuevo mensaje',
+    'submitter'                             => 'Remitente : ',
+    'send_receipt_confirmation'             => 'Enviar confirmación de recibido',
+    'participants'                          => 'Participantes : ',
+    'send_new_activity_notice'              => 'Enviar nuevo aviso de actividad',
+    'overlimit_notice'                      => 'Aviso de límite',
+    'email_attachments_to_the_user'         => 'Archivos adjuntos de correo electrónico para el usuario',
+    'auto_response_updated_successfully'    => 'Respuesta automática actualizada con éxito',
+    'auto_response_can_not_updated'         => 'La respuesta automática no se puede actualizar',
 
     /*
       |--------------------------------------
