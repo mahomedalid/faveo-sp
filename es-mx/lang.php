@@ -912,7 +912,7 @@ return [
     'sign_out'           => 'Cerrar sesión',
     'Tickets'            => 'TICKETS',
     'ticket-details'     => 'Detalles de ticket',
-    'inbox'              => 'Inbox',
+    'inbox'              => 'Bandeja de entrada',
     'my_tickets'         => 'Mis tickets',
     'unassigned'         => 'No asignado',
     'trash'              => 'Papelera de reciclaje',
